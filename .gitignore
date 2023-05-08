@@ -1,0 +1,10 @@
+.venv
+.env
+ignored/
+pat.txt
+src/phase_1/data/
+data/
+docs/
+notes.md
+citations.md
+resources/
